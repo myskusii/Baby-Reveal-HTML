@@ -1,13 +1,8 @@
 let container = document.querySelector(".container");
-let btn = document.getElementById("spin");
+let mid = document.querySelector(".mid");
 let number = Math.ceil(Math.random() * 10000);
 
-let flash = document.querySelector(".container div");
-
-
-btn.onclick = function () {
+mid.onclick = function () {
   container.style.transform = "rotate(" + number + "deg)";
   number += Math.ceil(Math.random() * 10000);
-
 }
-  
