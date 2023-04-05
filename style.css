@@ -39,27 +39,27 @@ body{
 	 writing-mode: vertical-rl;
 }
 .container .one{
-	background: #55b4f3;
+	background: #f5d5f1;
 	left: 50%;
 }
 .container .two{
-	background: #f5d5f1;
+	background: #55b4f3;
 	transform: rotate(60deg);
 }
 .container .three{
-	background: #55b4f3;
+	background: #f5d5f1;
 	transform: rotate(120deg);
 }
 .container .four{
-	background: #f5d5f1;
+	background: #55b4f3;
 	transform: rotate(180deg);
 }
 .container .five{
-	background: #55b4f3;
+	background: #f5d5f1;
 	transform: rotate(240deg);
 }
 .container .six{
-	background: #f5d5f1;
+	background: #55b4f3;
 	transform: rotate(300deg);
 }
 .mid{
