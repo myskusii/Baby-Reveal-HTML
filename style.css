@@ -63,12 +63,20 @@ body{
 	transform: rotate(300deg);
 }
 .mid{
-	height: 25px;
-	width: 25px;
-	color: black;
+	height: 80px;
+	width: 80px;
+	color: white;
 	border-radius: 50%;
 	position: absolute;
-	background: #000000;
+	background: #ff0000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+  
 }
 #spin{
 	height: 60px;
