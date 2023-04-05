@@ -1,7 +1,7 @@
 let container = document.querySelector(".container");
 let btn = document.getElementById("spin");
 let mid = document.querySelector(".mid");
-let number = 2400;
+let number = 240;
 
 let flash = document.querySelector(".container div");
 
